@@ -53,6 +53,7 @@ function capToFront(s) {
   //al principio de la palabra.
   //Ejemplo: soyHENRY -> HENRYsoy
   //Escribe tu código aquí
+  
   var mayus1 = [];
 
   for (i=0 ; i < s.length ; i++){
